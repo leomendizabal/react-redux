@@ -1,14 +1,14 @@
 import React from 'react';
 
-class AboutPage extends React.Component{
+class About extends React.Component{
     render() {
         return (
             <div>
                 <h1>About</h1>
-                <p>This app uses react</p>
+                <p>This app uses react container</p>
             </div>
         );
     }
 }
 
-export default AboutPage;
+export default About;
